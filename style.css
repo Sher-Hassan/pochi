@@ -1,0 +1,21 @@
+.upper{
+    margin-top: 60px;
+    margin-left: 20px;
+    display: flex;
+}
+.head {
+    margin-left: 20px;
+    display: flex;
+}
+.pic {
+    margin-left: 20px;
+}
+.intro {
+    margin-left: 20px;
+}
+.profile {
+    margin-left: 40px;
+}
+.links {
+    margin-left: 40px;
+}
